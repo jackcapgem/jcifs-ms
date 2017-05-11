@@ -1,0 +1,4 @@
+---
+applications:
+- name: jcifs-ms
+  memory: 128M
